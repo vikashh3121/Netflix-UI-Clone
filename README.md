@@ -23,4 +23,7 @@ Styled fully using HTML + CSS only (no JavaScript).
 
 <img width="949" height="495" alt="image" src="https://github.com/user-attachments/assets/2dacc3c7-e0dd-46ce-8f05-f82ecdb427f5" />
 
+<img width="953" height="503" alt="image" src="https://github.com/user-attachments/assets/7cafe6d8-7a1b-4d5a-84a5-5d92d496acb2" />
+
+
 
